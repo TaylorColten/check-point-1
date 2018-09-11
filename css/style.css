@@ -68,10 +68,11 @@ font-size: 30px;
     text-decoration: none;
     display: inline-block;
     font-size: 22px;
+
 }
 
 .button:hover{ 
-background-color:teal;
+background-color:transparent;
 color: black;
 }
 
